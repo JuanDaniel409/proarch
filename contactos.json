@@ -1,0 +1,58 @@
+[
+    {
+        "id": 101,
+        "nombre": "Ana Pérez",
+        "telefono": "5555-1234",
+        "correo": "ana.perez@correo.com",
+        "ciudad": "Quetzaltenango"
+    },
+    {
+        "id": 102,
+        "nombre": "Luis Morales",
+        "telefono": "5555-8901",
+        "correo": "luis.morales@correo.com",
+        "ciudad": "Guatemala"
+    },
+    {
+        "id": 103,
+        "nombre": "María López",
+        "telefono": "5555-5678",
+        "correo": "maria.lopez@correo.com",
+        "ciudad": "Totonicapán"
+    },
+    {
+        "id": 123,
+        "nombre": "pedro",
+        "telefono": "55151965",
+        "correo": "pedro@gogo.com",
+        "ciudad": "san agustin"
+    },
+    {
+        "id": 55,
+        "nombre": "Manuel Rojas",
+        "telefono": "25456983",
+        "correo": "manuelrojas@gmail.com",
+        "ciudad": "Quetzaltenango"
+    },
+    {
+        "id": 56,
+        "nombre": "Pedro r",
+        "telefono": "15467985",
+        "correo": "gogo@gogo.com",
+        "ciudad": "Quetzaltenango"
+    },
+    {
+        "id": 57,
+        "nombre": "julio r",
+        "telefono": "45784613",
+        "correo": "julio@gmai..com",
+        "ciudad": "Quetzaltenango"
+    },
+    {
+        "id": 58,
+        "nombre": "Nando",
+        "telefono": "45781264",
+        "correo": "nando@lol.com",
+        "ciudad": "cabrican"
+    }
+]
